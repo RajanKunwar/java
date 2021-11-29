@@ -5,8 +5,8 @@ public class PersonClass{
   Integer age;
 
   public PersonClass(){
-    this.name = "Shivaji";
-    this.age = 25;
+    this.name = "Ishan";
+    this.age = 21;
   }
 
   public String getName(){
